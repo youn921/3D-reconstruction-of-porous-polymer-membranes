@@ -44,9 +44,11 @@ The optimal parameters found and the results of evaluating the generated quality
 
 # 3. Visualization of the reconstruction results and input target images of Original SEM-2 (Fig _4b)
 
-Due to insufficient memory, the3D visualization only selects a certain range of volume for display
+Due to insufficient memory, the 3D visualization only selects a certain range of volume for display
 
 ### 3.1 Visualization of the original target image of SEM2 (Fig _4b(poi) ) and the first slice of its reconstructed structure
+
+![image-5](G:\GithubRepo\3D-reconstruction-of-porous-polymer-membranes\image-5.png)
 
 ![image-20240826011506363](image-1.png)
 
