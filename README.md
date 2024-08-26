@@ -48,19 +48,19 @@ Due to insufficient memory, the3D visualization only selects a certain range of 
 
 ### 3.1 Visualization of the original target image of SEM2 (Fig _4b(poi) ) and the first slice of its reconstructed structure
 
-![image-20240826011506363](C:\Users\18375\AppData\Roaming\Typora\typora-user-images\image-20240826011506363.png)
+![image-20240826011506363](image-1.png)
 
 ### 3.2 Visualization using plotly
 
 The results of reconstructing the original SEM-2 (Fig_4b) using plotly are as follows
 
-![image-20240826014622165](C:\Users\18375\AppData\Roaming\Typora\typora-user-images\image-20240826014622165.png)
+![image-20240826014622165](image-2.png)
 
-![image-20240826015253183](C:\Users\18375\AppData\Roaming\Typora\typora-user-images\image-20240826015253183.png)
+![image-20240826015253183](image-3.png)
 
 ## 3.3 Volume visualization with Mayavi
 
-![image-20240826015525203](C:\Users\18375\AppData\Roaming\Typora\typora-user-images\image-20240826015525203.png)
+![image-20240826015525203](image-4.png)
 
 
 
